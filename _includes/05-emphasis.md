@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+this **keyword** needs to be *italicized*.
+I can __combine__ them like _this_ and *this* or **these, these, these**.
